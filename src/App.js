@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import uuid from 'uuid/dist/v4';
 import axios from 'axios';
 import './App.css';
 
